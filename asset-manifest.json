@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/My-secret/static/js/main.beae7485.js",
+    "index.html": "/My-secret/index.html",
+    "main.beae7485.js.map": "/My-secret/static/js/main.beae7485.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.beae7485.js"
+  ]
+}
